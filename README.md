@@ -37,7 +37,7 @@ A simple shopping cart application built with **React Native**, **Expo**, and **
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/shopping-cart-app.git
+git clone https://github.com/jallenmanaloto/kulay-task.git
 cd shopping-cart-app
 ```
 
